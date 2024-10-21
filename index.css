@@ -1,0 +1,19 @@
+
+h1{
+    font-size: xx-large;
+    color: blue;
+}
+label{
+    color: peru;
+    font-style: italic;
+    justify-content: center;
+}
+.centered-wrapper {
+    position: relative;
+    text-align: center;
+
+    width: 300px;
+    height: 250px;
+    border: 1px solid rgb(27, 27, 188);
+    
+}
